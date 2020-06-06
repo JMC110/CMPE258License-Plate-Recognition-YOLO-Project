@@ -1,4 +1,3 @@
-# License-Plate-Recognition-YOLO-Project
 
 # Deep Learning based License Plate Recognition
 License plate recognition using Deep Learning
