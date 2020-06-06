@@ -1,0 +1,6 @@
+classes = 1
+train  = ../Yolo_LicensePlateDetection/dataset/belgium/train.txt
+valid  = ../Yolo_LicensePlateDetection/dataset/belgium/test.txt
+names = ../Yolo_LicensePlateDetection/dataset/belgium/plates.names
+backup = ../Yolo_LicensePlateDetection/models
+

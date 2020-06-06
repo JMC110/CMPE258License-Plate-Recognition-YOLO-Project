@@ -1,0 +1,7 @@
+classes = 35
+train = ../Yolo_CharacterSegmentation/dataset/belgium/train.txt
+valid = ../Yolo_CharacterSegmentation/dataset/belgium/test.txt
+names = ../Yolo_CharacterSegmentation/dataset/belgium/characters.names
+backup = ../Yolo_CharacterSegmentation/dataset/models
+
+
